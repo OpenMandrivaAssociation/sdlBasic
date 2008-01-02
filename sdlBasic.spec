@@ -12,6 +12,7 @@ License:	LGPL
 Group:		Development/Other
 Summary:	%{Summary}
 BuildRequires:	SDL-devel SDL_mixer-devel SDL_image-devel SDL_ttf-devel
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 A easy basic in order to make games in 2d style amos for linux and windows.
