@@ -1,6 +1,6 @@
 %define	name	sdlBasic
 %define	version	20040425
-%define	release	2
+%define	release	3
 %define	Summary	A small, efficient and multiplatform basic interpreter
 
 Name:		%{name}
