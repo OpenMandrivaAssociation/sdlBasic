@@ -6,7 +6,7 @@
 Name:		%{name}
 Version:	%{version}
 Release:	%mkrel %{release}
-URL:		http://sdlbasic.sourceforge.net/
+URL:		https://sdlbasic.sourceforge.net/
 Source0:	%{name}-%{version}.tar.bz2
 License:	LGPL
 Group:		Development/Other
